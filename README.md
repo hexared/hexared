@@ -12,6 +12,7 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
+<!--
 # 👾 Repos!
 [![PWDGE0N](https://github-readme-stats.vercel.app/api/pin/?username=j4ckr3d&repo=pwdge0n&theme=tokyonight&title_color=21C530)](https://github.com/anuraghazra/github-readme-stats)
 [![TweetPro](https://github-readme-stats.vercel.app/api/pin/?username=j4ckr3d&repo=TweetPro&theme=tokyonight&title_color=21C530)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +25,7 @@
 # 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api/?username=j4ckr3d&theme=tokyonight&title_color=21C530)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ckr3d&layout=compact&theme=tokyonight&title_color=21C530&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## 🌐 Where to follow:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/n3tcat) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-pernarella-9b3092a7/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A7L4S)
 
