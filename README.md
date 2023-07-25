@@ -1,4 +1,4 @@
-# jackszyro's Profile
+# Hexared's Profile
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=50&color=21C530&vCenter=true&multiline=true&width=300&height=130&lines=%3E+DevOps+Engineer;%3E+Cybersecurity+student;%3E+Cloud+enthusiast;%3E+Linux+lover;%3E+clear)](https://git.io/typing-svg)
