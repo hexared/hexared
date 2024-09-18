@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ckr3d&layout=compact&theme=tokyonight&title_color=21C530&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## 🌐 Where to follow:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/n3tcat) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n3tcat/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A7L4S)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n3tcat/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A7L4S)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=j4ckr3d&icon=0&color=0)](https://visitcount.itsvg.in)
