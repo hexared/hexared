@@ -26,7 +26,7 @@
 [![](https://github-readme-stats.vercel.app/api/?username=j4ckr3d&theme=tokyonight&title_color=21C530)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ckr3d&layout=compact&theme=tokyonight&title_color=21C530&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 -->
-## 🌐 Where to follow:
+## 🌐 Where to contact me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n3tcat/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A7L4S)
 
 ---
