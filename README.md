@@ -1,7 +1,7 @@
 # Hexared's Profile
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=21C530&vCenter=true&multiline=true&width=300&height=180&lines=%3E+DevSecOps+Engineer;%3E+Cybersecurity+addicted;%3E+Cloud+enthusiast;%3E+Linux+lover;%3E+CTF+player;%3E+clear)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=21C530&vCenter=true&multiline=true&width=300&height=150&lines=%3E+DevSecOps+Engineer;%3E+Cybersecurity+addicted;%3E+Cloud+enthusiast;%3E+CTF+player;%3E+clear)](https://git.io/typing-svg)
 
 # 💻 What do i know:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
